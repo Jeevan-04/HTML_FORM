@@ -1,0 +1,12 @@
+.custom-table {
+    background-color: rgb(255, 195, 117);
+    -webkit-text-fill-color: rgb(207, 121, 0);
+    border-radius: 25px;
+    padding: 20px;
+    border-collapse: collapse;
+}
+
+.custom-table th, .custom-table td {
+    padding: 8px;
+    text-align: left;
+}
